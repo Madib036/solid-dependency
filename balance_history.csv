@@ -1,0 +1,4 @@
+id,Type,Source,Amount,Fee,Destination Platform Fee,Destination Platform Fee Currency,Net,Currency,Created (UTC),Available On (UTC),Description,Customer Facing Amount,Customer Facing Currency,Transfer,Transfer Date (UTC),Transfer Group
+txn_1SLCHhCV3aMWmAX0U3dwAnB0,payout_failure,po_1SKq4QCV3aMWmAX0jXEQ8y6C,1.00,0.00,,,1.00,usd,2025-10-23 00:21,2025-10-23 00:21,REFUND FOR PAYOUT (STRIPE PAYOUT),,,,,
+txn_1SKq4QCV3aMWmAX0R6oPx1c1,payout,po_1SKq4QCV3aMWmAX0jXEQ8y6C,-1.00,0.00,,,-1.00,usd,2025-10-22 00:38,2025-10-22 00:38,STRIPE PAYOUT,,,po_1SKq4QCV3aMWmAX0jXEQ8y6C,2025-10-22 00:00,
+txn_1SJ7v1CV3aMWmAX0gTiPawVE,payment,py_1SJ7v1CV3aMWmAX0h9g49Nos,1.00,0.00,,,1.00,usd,2025-10-17 07:17,2025-10-17 07:17,,1.00,usd,po_1SKq4QCV3aMWmAX0jXEQ8y6C,2025-10-22 00:00,
